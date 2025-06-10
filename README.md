@@ -11,10 +11,14 @@
 - How to visialize that in a 
 - We sign up probabilities of all paths that the quantum computer can go: https://en.wikipedia.org/wiki/Double-slit_experiment
 - How to do error correction for phase? What type of error correction we want to focus on?
+- Crigenic NVisa quantum Computers in a room temperature (the least termoenegy the better)
+- What can the fundaments (equations, algorithm) that will impact my phisical system
+- The student's guide to schorigan equation
 
 ## Classical Algorithms to Learn:
 
 - Grovers Algorithm
+
 
 ## Datasets:
 
